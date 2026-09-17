@@ -8,4 +8,4 @@ if __name__ == "__main__":
     print("Power",power_nmus(2,4))
     print("Multiplication",multiply_nmus(3,4))
 
-print("stash me sir")
+
