@@ -19,3 +19,6 @@ def power_nmus(a,b):
 'multiply function'
 def multiply_nmus(a,b):
     return a * b
+
+def abc():
+    print("Delhi is capital ")
