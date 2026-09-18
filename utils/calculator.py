@@ -20,4 +20,5 @@ def power_nmus(a,b):
 def multiply_nmus(a,b):
     return a * b
 
-
+def abc():
+    print("Delhi is capital ")

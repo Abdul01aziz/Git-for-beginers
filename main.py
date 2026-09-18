@@ -7,5 +7,3 @@ if __name__ == "__main__":
     print("Subtraction",subtract_nmus(5,3))
     print("Power",power_nmus(2,4))
     print("Multiplication",multiply_nmus(3,4))
-
-
