@@ -21,8 +21,4 @@ def multiply_nmus(a,b):
     return a * b
 
 def abc():
-<<<<<<< HEAD
     print("Delhi is capital ")
-=======
-    print("Delhi is capital ")
->>>>>>> xyz
